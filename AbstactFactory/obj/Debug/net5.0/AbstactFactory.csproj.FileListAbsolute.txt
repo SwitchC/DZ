@@ -1,0 +1,16 @@
+C:\Users\Веталь\Desktop\ДЗ 6\AbstactFactory\bin\Debug\net5.0\AbstactFactory.exe
+C:\Users\Веталь\Desktop\ДЗ 6\AbstactFactory\bin\Debug\net5.0\AbstactFactory.deps.json
+C:\Users\Веталь\Desktop\ДЗ 6\AbstactFactory\bin\Debug\net5.0\AbstactFactory.runtimeconfig.json
+C:\Users\Веталь\Desktop\ДЗ 6\AbstactFactory\bin\Debug\net5.0\AbstactFactory.runtimeconfig.dev.json
+C:\Users\Веталь\Desktop\ДЗ 6\AbstactFactory\bin\Debug\net5.0\AbstactFactory.dll
+C:\Users\Веталь\Desktop\ДЗ 6\AbstactFactory\bin\Debug\net5.0\ref\AbstactFactory.dll
+C:\Users\Веталь\Desktop\ДЗ 6\AbstactFactory\bin\Debug\net5.0\AbstactFactory.pdb
+C:\Users\Веталь\Desktop\ДЗ 6\AbstactFactory\obj\Debug\net5.0\AbstactFactory.csproj.AssemblyReference.cache
+C:\Users\Веталь\Desktop\ДЗ 6\AbstactFactory\obj\Debug\net5.0\AbstactFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Веталь\Desktop\ДЗ 6\AbstactFactory\obj\Debug\net5.0\AbstactFactory.AssemblyInfoInputs.cache
+C:\Users\Веталь\Desktop\ДЗ 6\AbstactFactory\obj\Debug\net5.0\AbstactFactory.AssemblyInfo.cs
+C:\Users\Веталь\Desktop\ДЗ 6\AbstactFactory\obj\Debug\net5.0\AbstactFactory.csproj.CoreCompileInputs.cache
+C:\Users\Веталь\Desktop\ДЗ 6\AbstactFactory\obj\Debug\net5.0\AbstactFactory.dll
+C:\Users\Веталь\Desktop\ДЗ 6\AbstactFactory\obj\Debug\net5.0\ref\AbstactFactory.dll
+C:\Users\Веталь\Desktop\ДЗ 6\AbstactFactory\obj\Debug\net5.0\AbstactFactory.pdb
+C:\Users\Веталь\Desktop\ДЗ 6\AbstactFactory\obj\Debug\net5.0\AbstactFactory.genruntimeconfig.cache

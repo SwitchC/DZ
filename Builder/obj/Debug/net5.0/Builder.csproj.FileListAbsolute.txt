@@ -1,0 +1,16 @@
+C:\Users\Веталь\Desktop\ДЗ 6\Builder\bin\Debug\net5.0\Builder.exe
+C:\Users\Веталь\Desktop\ДЗ 6\Builder\bin\Debug\net5.0\Builder.deps.json
+C:\Users\Веталь\Desktop\ДЗ 6\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+C:\Users\Веталь\Desktop\ДЗ 6\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+C:\Users\Веталь\Desktop\ДЗ 6\Builder\bin\Debug\net5.0\Builder.dll
+C:\Users\Веталь\Desktop\ДЗ 6\Builder\bin\Debug\net5.0\ref\Builder.dll
+C:\Users\Веталь\Desktop\ДЗ 6\Builder\bin\Debug\net5.0\Builder.pdb
+C:\Users\Веталь\Desktop\ДЗ 6\Builder\obj\Debug\net5.0\Builder.csproj.AssemblyReference.cache
+C:\Users\Веталь\Desktop\ДЗ 6\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Веталь\Desktop\ДЗ 6\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+C:\Users\Веталь\Desktop\ДЗ 6\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+C:\Users\Веталь\Desktop\ДЗ 6\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Веталь\Desktop\ДЗ 6\Builder\obj\Debug\net5.0\Builder.dll
+C:\Users\Веталь\Desktop\ДЗ 6\Builder\obj\Debug\net5.0\ref\Builder.dll
+C:\Users\Веталь\Desktop\ДЗ 6\Builder\obj\Debug\net5.0\Builder.pdb
+C:\Users\Веталь\Desktop\ДЗ 6\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
